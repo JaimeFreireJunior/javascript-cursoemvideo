@@ -1,0 +1,10 @@
+// Estrutura de repetição for
+for (c = 1;c <= 10; c++) {
+    console.log(`Passo ${c}`)
+}
+
+console.log('Agora a mesma estrutura acima mas com while')
+let i = 1
+while (i <=10) {
+    console.log(i)
+}
